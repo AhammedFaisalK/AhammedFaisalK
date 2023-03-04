@@ -1,5 +1,5 @@
 # 💫 About Me:
-telescope I’m currently working as an intern at Steyp<br>seedling I’m currently learning web development<br>I’m interested in coding<br>
+ I’m currently working as an intern at Steyp<br> I’m currently learning web development<br>I’m interested in coding<br>
 
 
 ## 🌐 Socials:
