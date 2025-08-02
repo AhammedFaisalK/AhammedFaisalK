@@ -1,5 +1,5 @@
 # 💫 About Me:
- Backend Engineer at Tegain.<br> Full Stack Developer<br>Expertise in Back-end-development<br>
+ Backend Engineer at Talrop.<br> Full Stack Developer<br>Expertise in Back-end-development<br>
 
 
 ## 🌐 Socials:
