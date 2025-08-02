@@ -1,5 +1,5 @@
 # 💫 About Me:
- Software Engineer at Tegain.<br> Full Stack Developer<br>Expertise in Back-end-development<br>
+ Backend Engineer at Tegain.<br> Full Stack Developer<br>Expertise in Back-end-development<br>
 
 
 ## 🌐 Socials:
